@@ -43,7 +43,7 @@ Functional Requirements:
 Technologies:
 1. Spring Application Framework: This should be used to implement the web application.
 
-2. MySQL Database: The application should use this database to store user data.
+2. PostgreSQL Database: The application should use this database to store user data.
 
 3. HTML/CSS/Javascript: These are necessary to create the user interface and enable its functionality.
 
